@@ -1,6 +1,8 @@
 {
+  "name": "s3-client",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.4.1",
     "bluebird": "^3.4.1",
